@@ -16,7 +16,7 @@ permalink: /about/
       <h5><a href="{{ site.home_url }}/">기술 블로그</a></h5>
 
       <p>다양한 Code snippet과 설명, 현재 위메프에서 적용 하고 있는 기술, 프레임워크등을 포함하여 매주 1회씩 저희가 배운 여러가지 기술들에 대해 소개하는 곳입니다. </p>
-      <h5><a href="https://github.com/wmptech/wmptech.github.io">github</a></h5>
+      <h5>github</h5>
 
       <p>위메프의 구성원들이 자신의 특성에 맞게 개선한 프로젝트들을 보실 수 있습니다. </p>
 
